@@ -1,0 +1,10 @@
+version: '3'
+services:
+  todoapp:
+    build: .
+    container_name: Todo_cicd
+    ports:
+      - "8000:8000"
+    restart: always
+
+
