@@ -16,4 +16,4 @@ Run these commands:
 or Run by docker compose
 
 test
-
+I have done cicd pipeline with jenkins on AWS EC2
